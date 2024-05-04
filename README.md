@@ -1,4 +1,4 @@
-# CS505-001: Intermediate Tops in Database Systems (Spring 2024)
+# CS505-001: Intermediate Topics in Database Systems (Spring 2024)
 ## Project: Performance benchmarking | HyperSQL 2.7.2
 
 ### About HyperSQL
