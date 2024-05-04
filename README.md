@@ -56,7 +56,7 @@ http://www.squirrelsql.org/index.php?page=translations
 ```
 
 ## Run Tests
-- Onec our databse is installed and TPC-H data loaded, we can run the queries from ``hyper/queries/``.
+- Once our database is installed and TPC-H data loaded, we can run the queries from ``hyper/queries/``.
 - We prepared a bash script for this task. It can be executed from the ``/hyper/`` directory of this project.
 - Update the queries and results file path accordingly.
 ``` sh
